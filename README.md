@@ -27,7 +27,7 @@ Removing the background given an image. In this case, an object of interest is d
 
 ### Custom Annoation Tool
 
-- Built using Gradio-UI
+- Built an annotation tool using Gradio-UI: [link](https://github.com/VimukthiRandika1997/MaskAnnotator)
 - **HQ-SAM** ( variant of Segment Anything Model ) is used as the main model for the segmentation
 - Allow to highlight background keypoints and foreground keypoints in order to obtain accurate segmentation maks
 - Binary masks or gray-scale masks can be saved
